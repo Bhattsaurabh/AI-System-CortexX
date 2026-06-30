@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+build/
+.env
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+backend/workspace/
+Projects-generated/
+.DS_Store
